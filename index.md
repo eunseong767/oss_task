@@ -13,7 +13,7 @@
 
 ##  교육
 - **광운대학교** - 정보융합학부 (2022.03 ~ 2028.02)
-![광운대학교 로고](https://upload.wikimedia.org/wikipedia/commons/5/5c/Kwangwoon_University_emblem.svg)  
+![광운대학교 로고](/image/다운로드%20(1).jpg)
   [광운대학교 공식 홈페이지](https://www.kw.ac.kr) 
   -  **주요 과목**: 데이터 분석, 머신러닝, 데이터베이스, ai수학, 컴퓨터 네트워크
 
@@ -21,7 +21,6 @@
 
 ##  인턴 경험
 - **카카오 스타일 | 데이터 분석 인턴** (2027.05 ~ 2028.02)
-![카카오스타일 로고](https://upload.wikimedia.org/wikipedia/commons/3/34/Kakao_Style_logo.png)  
   - 복잡한 문제 해결을 위한 데이터모델링 과 알고리즘 개발
   - 데이터 처리 및 분석 파이프라인 설계 및 구축
   - 데이터 기반의 인사이트를 도출하고 이를통한 의사결정 지원 시스템 구축
